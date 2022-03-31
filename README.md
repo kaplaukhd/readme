@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @sEYDDE
+- 👋 Hi, I’m @kaplaukhd
 - 👀 I'm interested in Android development
